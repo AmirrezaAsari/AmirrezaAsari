@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrezaasari&label=Profile%20views&color=0e75b6&style=flat" alt="amirrezaasari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaasari&title=-issiues,-reviews,-stars" alt="amirrezaasari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaasari&title=-Issiues,-Reviews,-Stars" alt="amirrezaasari" /></a> </p>
 
 - 📫 How to reach me **amirreza.asari2@gmail.com**
 
