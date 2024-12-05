@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrezaasari&label=Profile%20views&color=0e75b6&style=flat" alt="amirrezaasari" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaasari&title=-Issues,-Reviews&margin-w=15&margin-h=15" alt="amirrezaasari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaasari&title=-Issues,-Reviews&column=3&margin-w=15&margin-h=15" alt="amirrezaasari" /></a> </p>
 
 - 📫 How to reach me **amirreza.asari2@gmail.com**
 
@@ -19,6 +19,4 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaasari&show_icons=true&locale=en&layout=compact" alt="amirrezaasari" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezaasari&show_icons=true&locale=en" alt="amirrezaasari" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezaasari&" alt="amirrezaasari" /></p>
+<p><img align="center" src=""https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirrezaAsari&hide_border=true&hide_current_streak=true&hide_longest_streak=true&" alt="amirrezaasari" /></p>
