@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amirreza</h1>
 <h3 align="center">Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrezaasari&label=Profile%20views&color=0e75b6&style=flat" alt="amirrezaasari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrezaasari&label=Profile%20views&color=fc4903&style=flat" alt="amirrezaasari" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrezaasari&title=-Issues,-Reviews&column=3&margin-w=15&margin-h=15" alt="amirrezaasari" /></a> </p>
 
