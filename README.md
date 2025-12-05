@@ -12,7 +12,7 @@
 <a href="https://twitter.com/itsrootkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsrootkid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amirreza-asari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirreza-asari" height="30" width="40" /></a>
 </p>
-<p> buy me a coffee: <a href="buymeacoffee.com/itsRootKid">
+<p> buy me a coffee: **buymeacoffee.com/itsRootKid**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
